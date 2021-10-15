@@ -1,0 +1,7 @@
+*.sln
+.vs/
+Binaries/
+Config/steamvr_ue_editor_app.json
+Intermediate/
+Pack/
+Saved/
