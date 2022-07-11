@@ -6,6 +6,19 @@
 	{
 		"/actions/main":
 		{
+			"sources": [
+				{
+					"mode": "button",
+					"path": "/user/chest/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/TriggerLeft"
+						}
+					}
+				}
+			],
 			"poses": [
 				{
 					"output": "/actions/main/in/tracker_chest",
@@ -15,5 +28,5 @@
 			]
 		}
 	},
-	"description": "Passthrough_Example-17735300"
+	"description": ""
 }
